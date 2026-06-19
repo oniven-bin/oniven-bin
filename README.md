@@ -123,7 +123,7 @@ public:
 📞 WhatsApp & Telegram
 
 ```text
-01040810480
+01040
 ```
 
 ---
